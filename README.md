@@ -1,6 +1,10 @@
 ![logo](https://github.com/Vashist1110/Vashist1110/blob/main/logo.gif)
-<h1 align="center">Bonjour je m'appelle Vashist Tiwari</h1>
-<h3 align="center">A passionate coder and full stack developer who likes to build things to make this world a tech zone</h3>
+<h1 align="center">Hi, I'm Vashist Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB6CF7&width=435&lines=A+full+stack+developer;A+coding+enthusiast;A+competitive+programmer" alt="Typing SVG" />
+ </p>
 
 <div >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
